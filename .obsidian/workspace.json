@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "27007e8429c7534c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1932907260cf9f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0891cea2304267f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7b7a7b07cf8d11",
+    "type": "split",
+    "children": [
+      {
+        "id": "489b44f8a15d5697",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80abd471c831898e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "244fef5b905c4589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4cfdc86e6877db4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a13145dbac37306f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a43530ab75046c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16d06296a421a3d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96eff77d29e1803e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15cb730f50ae9ca2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93549bb9e1a87fed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0891cea2304267f0",
+  "lastOpenFiles": [
+    "index.md",
+    "naturaily guide to jamstack.md",
+    "releases/2022-12-02.md",
+    "roadmap.sh.md",
+    "readme.md",
+    "Untitled 1.md",
+    "Title.md",
+    "202211252230.md"
+  ]
+}
