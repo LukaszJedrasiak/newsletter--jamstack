@@ -8,14 +8,61 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0891cea2304267f0",
+            "id": "637dd54eebc8ac42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "jamstack/guide to jamstack by naturaily.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
+      },
+      {
+        "id": "5551f333e7f43fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9990ec4ce8a64cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/release.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "258f0de93e069586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "releases/2022-12-02.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fd73bb508795f92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "api/boredapi.com.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "releases/2022-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "releases/2022-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "releases/2022-12-02.md"
+              }
             }
           }
         ],
@@ -128,15 +179,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0891cea2304267f0",
+  "active": "258f0de93e069586",
   "lastOpenFiles": [
-    "index.md",
-    "naturaily guide to jamstack.md",
+    "jamstack/guide to jamstack by naturaily.md",
+    "api/boredapi.com.md",
+    "api/jsonbin.io.md",
+    "js/how to access the value fetched from API.md",
+    "js/fetch data from boredapi.md",
     "releases/2022-12-02.md",
+    "index.md",
+    "templates/release.md",
     "roadmap.sh.md",
-    "readme.md",
-    "Untitled 1.md",
-    "Title.md",
-    "202211252230.md"
+    "readme.md"
   ]
 }

@@ -1,0 +1,19 @@
+---
+title: issue #000 master topic
+date: YYYY-MM-DD
+---
+
+**Short summary of this issue here**
+
+## jamstack
+...
+## js
+...
+## api
+...
+## markup
+...
+## productivity
+...
+## solopreneur
+...

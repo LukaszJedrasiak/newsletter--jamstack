@@ -1,5 +1,5 @@
-**title of newsletter:** jamstack webdev newsletter
-**description:** Newsletter for jamstack and front-end web developers.
+**title of newsletter:** jamstack newsletter
+**description:** Newsletter for jamstack fans, front-end web developers and digital marketers.
 
 linkedin hashtags:
 - webdevelopment
@@ -8,11 +8,22 @@ linkedin hashtags:
 - frontend
 - jamstack
 
-topics: 
+topics:
+- jamstack
+- js
+- api
+- markdown
+- producitivity
+- digital marketing
+- solopreneur
+
+tags: 
 - #book 
+- #article
+- #tutorial
 - #tool
-- #knowledge
-- #productivity
+- #follow
+- #code
 
 ## characters limit
 twitter: 280
