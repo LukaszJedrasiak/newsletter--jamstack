@@ -4,41 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "e1932907260cf9f8",
+        "id": "ee33d5b66432aa1d",
         "type": "tabs",
         "children": [
           {
-            "id": "637dd54eebc8ac42",
+            "id": "8a690c6100ea33d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jamstack/guide to jamstack by naturaily.md",
+                "file": "releases/2022-12-02.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5551f333e7f43fc3",
-        "type": "tabs",
-        "children": [
+            },
+            "group": "3f0a1d2df938e821"
+          },
           {
-            "id": "c9990ec4ce8a64cd",
+            "id": "c77121030bcf255f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/release.md",
-                "mode": "preview",
+                "file": "00_inbox/dropdown menu without js.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "258f0de93e069586",
+            "id": "0f789848f08cae37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/dropdown menu in figma.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b60bcb91c100f572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/design systems repository.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "14aad0f841f20582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "atomic design by brad frost.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "76be87828d77d108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb9fefd108f50639",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,22 +85,10 @@
                 "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "fd73bb508795f92d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "api/boredapi.com.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
+            },
+            "group": "3f0a1d2df938e821"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "releases/2022-12-02.md",
+                "file": "atomic design by brad frost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "releases/2022-12-02.md",
+                "file": "atomic design by brad frost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,28 +194,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "releases/2022-12-02.md"
+                "file": "atomic design by brad frost.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "258f0de93e069586",
+  "active": "14aad0f841f20582",
   "lastOpenFiles": [
-    "jamstack/guide to jamstack by naturaily.md",
-    "api/boredapi.com.md",
-    "api/jsonbin.io.md",
-    "js/how to access the value fetched from API.md",
-    "js/fetch data from boredapi.md",
+    "00_inbox/design systems repository.md",
+    "00_inbox/dropdown menu in figma.md",
+    "00_inbox/dropdown menu without js.md",
     "releases/2022-12-02.md",
-    "index.md",
-    "templates/release.md",
-    "roadmap.sh.md",
-    "readme.md"
+    "00_inbox/what is static site generator.md",
+    "00_inbox/ssg popularity.md",
+    "00_inbox/formspark.io.md",
+    "jamstack/guide to jamstack by naturaily.md",
+    "js/fetch data from boredapi.md",
+    "js/how to access the value fetched from API.md"
   ]
 }
