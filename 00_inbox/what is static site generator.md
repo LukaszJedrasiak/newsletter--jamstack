@@ -1,2 +1,0 @@
-Jam
-own article
