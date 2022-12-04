@@ -8,51 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a690c6100ea33d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "releases/2022-12-03.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "b8f3ef39cbc4ac17"
-          },
-          {
             "id": "6b0d2b9fd0b76100",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jamstack/guide to jamstack by naturaily.md",
+                "file": "productivity/obsidian.md.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "86ec0c2128a89947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/02_js/prettier.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43aa8cba20c86b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "releases/2022-12-03.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "e6b3dbd50d588e17",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c986fdfae206df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "releases/2022-12-03.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "b8f3ef39cbc4ac17"
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +73,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#productivity",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jamstack/guide to jamstack by naturaily.md",
+                "file": "releases/2022-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jamstack/guide to jamstack by naturaily.md",
+                "file": "releases/2022-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,28 +150,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jamstack/guide to jamstack by naturaily.md"
+                "file": "releases/2022-12-03.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6b0d2b9fd0b76100",
+  "active": "16d06296a421a3d3",
   "lastOpenFiles": [
-    "00_inbox/06_productivity/zettelkasten.md",
+    "00_inbox/06_productivity/pomodoro.md",
+    "pomodoro.md",
+    "00_inbox/02_js/ESLint.md",
+    "00_inbox/02_js/prettier.md",
+    "productivity/obsidian.md.md",
     "index.md",
-    "00_inbox/04_markup/dropdown menu without js.md",
-    "00_inbox/05_uxui/dropdown menu in figma.md",
-    "00_inbox/05_uxui/design systems repository.md",
-    "00_inbox/05_uxui/atomic design by brad frost.md",
-    "00_inbox/04_markup/semantic html.md",
-    "00_inbox/03_api/formspark.io.md",
-    "00_inbox/02_js/dark mode switcher.md",
-    "00_inbox/01_jamstack/why choose hugo ssg.md"
+    "api/jsonbin.io.md",
+    "uxui/figma themer plugin.md",
+    "api/boredapi.com.md",
+    "releases/2022-12-03.md"
   ]
 }
