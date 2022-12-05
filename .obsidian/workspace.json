@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ee33d5b66432aa1d",
+        "id": "d55c89ea204d093e",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0d2b9fd0b76100",
+            "id": "8179704aa69211f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "productivity/obsidian.md.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "86ec0c2128a89947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/02_js/prettier.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "43aa8cba20c86b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "releases/2022-12-03.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "releases/2022-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "releases/2022-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "releases/2022-12-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,17 +127,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "16d06296a421a3d3",
+  "active": "8179704aa69211f6",
   "lastOpenFiles": [
-    "00_inbox/06_productivity/pomodoro.md",
-    "pomodoro.md",
-    "00_inbox/02_js/ESLint.md",
-    "00_inbox/02_js/prettier.md",
     "productivity/obsidian.md.md",
-    "index.md",
-    "api/jsonbin.io.md",
-    "uxui/figma themer plugin.md",
-    "api/boredapi.com.md",
+    "00_inbox/02_js/prettier.md",
+    "jamstack/guide to jamstack by naturaily.md",
+    "00_inbox/01_jamstack/Dungeons & Developers.md",
+    "00_inbox/01_jamstack/google analytics open source alternatives.md",
+    "00_inbox/99_feeds/stackdiary.md",
+    "00_inbox/90_ideas/feed reader.md",
+    "footer.md",
+    "readme.md",
     "releases/2022-12-03.md"
   ]
 }
