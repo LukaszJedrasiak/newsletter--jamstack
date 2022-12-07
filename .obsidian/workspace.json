@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8179704aa69211f6",
+            "id": "6389cc304579e0d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "releases/2022-12-03.md",
+                "file": "releases/2022-12-10.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "93c65433d1b4314f"
+            "group": "5fcfbcd68baec750"
           }
         ]
       },
       {
-        "id": "3974c87060b08e75",
+        "id": "019f25b41be60c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "849ba3c58843ccd9",
+            "id": "556e3fdce9373d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "releases/2022-12-03.md",
+                "file": "releases/2022-12-10.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "93c65433d1b4314f"
+            "group": "5fcfbcd68baec750"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "releases/2022-12-03.md",
+                "file": "releases/2022-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "releases/2022-12-03.md",
+                "file": "releases/2022-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "releases/2022-12-03.md"
+                "file": "releases/2022-12-10.md"
               }
             }
           }
@@ -155,17 +155,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8179704aa69211f6",
+  "active": "6389cc304579e0d8",
   "lastOpenFiles": [
-    "footer.md",
-    "js/how to access the value fetched from API.md",
-    "releases/2022-12-03.md",
-    "productivity/obsidian.md.md",
-    "00_inbox/02_js/prettier.md",
-    "jamstack/guide to jamstack by naturaily.md",
-    "00_inbox/01_jamstack/Dungeons & Developers.md",
-    "00_inbox/01_jamstack/google analytics open source alternatives.md",
-    "00_inbox/99_feeds/stackdiary.md",
-    "00_inbox/90_ideas/feed reader.md"
+    "productivity/pomodoro technique.md",
+    "index.md",
+    "releases/2022-12-10.md",
+    "uxui/dropdown menu in figma without plugins.md",
+    "markup/dropdown menu without js.md",
+    "api/formspark.io.md",
+    "js/prettier.md",
+    "jamstack/what is a static site generator.md",
+    "templates/release.md",
+    "uxui/figma themer plugin.md"
   ]
 }

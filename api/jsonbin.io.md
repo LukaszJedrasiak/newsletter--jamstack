@@ -2,7 +2,10 @@
 tags: tool
 hashtags:
 - api
+- jamstack
 ---
+
+![[jsonbin-io.jpg]]
 
 Simple REST interface to store & retrieve your JSON data from the cloud. A great tool for testing API connections to static jamstack pages and basic CRUD operations.
 
