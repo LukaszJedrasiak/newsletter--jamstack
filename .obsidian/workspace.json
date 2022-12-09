@@ -13,31 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "releases/2022-12-10.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "5fcfbcd68baec750"
-          }
-        ]
-      },
-      {
-        "id": "019f25b41be60c0e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "556e3fdce9373d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "releases/2022-12-10.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "5fcfbcd68baec750"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "releases/2022-12-10.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "releases/2022-12-10.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "releases/2022-12-10.md"
+                "file": "index.md"
               }
             }
           }
@@ -153,19 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "6389cc304579e0d8",
   "lastOpenFiles": [
-    "productivity/pomodoro technique.md",
-    "index.md",
+    "uxui/figma themer plugin.md",
+    "00_inbox/01_jamstack/carbon impact calculators.md",
+    "img/tmp/beacon--drial--old.png",
+    "footer.md",
+    "releases/2022-12-03.md",
     "releases/2022-12-10.md",
+    "jamstack/what is a static site generator (SSG) by Netlify.md",
+    "productivity/pomodoro technique.md",
     "uxui/dropdown menu in figma without plugins.md",
-    "markup/dropdown menu without js.md",
-    "api/formspark.io.md",
-    "js/prettier.md",
-    "jamstack/what is a static site generator.md",
-    "templates/release.md",
-    "uxui/figma themer plugin.md"
+    "markup/dropdown menu without js.md"
   ]
 }

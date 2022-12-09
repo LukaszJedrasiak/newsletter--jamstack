@@ -6,15 +6,18 @@ hashtags:
 - webdevelopment
 ---
 
-If you have trouble staying focused at work and are constantly distracted, break your day into smaller blocks. These blocks are known as _pomodoros_, from the Italian word for tomato, after the tomato-shaped kitchen timer, which the creator of this technique used.
+If you have trouble staying focused at work and are constantly distracted, break your day into smaller blocks – preferably 25 minutes each.
 
-1. Decide on the task to be done.
-2. Set the timer for 25 minutes.
-3. Work on the task.
-4. End work when the timer rings and take a short break (typically 5–10 minutes).
-5. If you have finished fewer than three blocks, go back to Step 2 and repeat until you go through all three intervals.
-6. After three blocks are done, take the fourth and then take an extended break (typically 20 to 30 minutes). Once you finish the long break, return to step 2.
+Set the timer for 25 minutes, put on headphones, turn on non-distracting sounds (e.g. singing birds or the sound of rain) and focus on only one task.
 
-You have to start over if you break your block in the middle of it. Therefore, an essential element of this technique is noting each completed block on a paper. During the first days, I managed to close 2-3 blocks at most, but after a week of training, I can complete as many as 12 intervals during the day.
+After each block, take a short break (typically 5-10 minutes). After the fourth finished block, take an extended break (20-30 minutes),
+
+You have to start over if you break your block in the middle of it.
+
+Therefore, an essential element of this technique is noting each completed block on a paper. 
+
+During the first days, I managed to close 2-3 blocks at most, but after a week of training, I can complete as many as 6 intervals during the day.
 
 The effect - I finally finished the website prototype that has been following me since the summer holidays.
+
+The original website of the creator of this method no longer exists. Still, you can easily find more information about it by typing "Pomodoro technique" in a search engine.

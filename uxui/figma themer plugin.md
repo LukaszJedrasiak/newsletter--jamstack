@@ -5,6 +5,7 @@ hashtags:
 - ui
 - ux
 - UIUXDesigner
+- buildinpublic
 ---
 
 ![[figma-themer-plugin-prototype.mp4]]
