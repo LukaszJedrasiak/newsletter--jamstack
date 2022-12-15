@@ -7,6 +7,8 @@ hashtags:
 - buildinpublic
 ---
 
+![[dropdown-menu-without-js.mp4]]
+
 Code snippet with which you will create a simple drop-down menu using only CSS, without JavaScript.
 
 Source: https://codepen.io/LukaszJedrasiak/pen/bGKZoaQ

@@ -6,6 +6,8 @@ hashtags:
 - webdevelopment
 ---
 
+![[pomodoro-technique.jpg]]
+
 If you have trouble staying focused at work and are constantly distracted, break your day into smaller blocks – preferably 25 minutes each.
 
 Set the timer for 25 minutes, put on headphones, turn on non-distracting sounds (e.g. singing birds or the sound of rain) and focus on only one task.
@@ -20,4 +22,4 @@ During the first days, I managed to close 2-3 blocks at most, but after a week o
 
 The effect - I finally finished the website prototype that has been following me since the summer holidays.
 
-The original website of the creator of this method no longer exists. Still, you can easily find more information about it by typing "Pomodoro technique" in a search engine.
+Learn more: https://francescocirillo.com/products/the-pomodoro-technique

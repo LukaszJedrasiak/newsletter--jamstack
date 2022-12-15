@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "d55c89ea204d093e",
+        "id": "04c4c519a5ba864a",
         "type": "tabs",
         "children": [
           {
-            "id": "6389cc304579e0d8",
+            "id": "3a860245ec307397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/04_markup/DOM selection game.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f08bd0d2e33622bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,51 @@
             }
           },
           {
-            "id": "d26d1d7d6745032b",
+            "id": "c4658d852f9b37a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/02_js/jsonplaceholder.md",
+                "file": "00_inbox/01_jamstack/modern web development on the jamstack.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "a96b9190d0a749b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/01_jamstack/architectural guide to the modern web.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d172d82e27e3babf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_inbox/01_jamstack/jamstack video course.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df321b875938fb24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_inbox/02_js/jsonplaceholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_inbox/02_js/jsonplaceholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00_inbox/02_js/jsonplaceholder.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +189,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d26d1d7d6745032b",
+  "active": "df321b875938fb24",
   "lastOpenFiles": [
+    "00_inbox/01_jamstack/cut into jamstack.md",
+    "00_inbox/01_jamstack/jamstack video course.md",
+    "00_inbox/01_jamstack/architectural guide to the modern web.md",
+    "00_inbox/01_jamstack/modern web development on the jamstack.md",
     "releases/2022-12-10.md",
-    "jamstack/what is a static site generator (SSG) by Netlify.md",
-    "api/formspark.io.md",
-    "index.md",
-    "uxui/figma themer plugin.md",
-    "00_inbox/01_jamstack/carbon impact calculators.md",
-    "img/tmp/beacon--drial--old.png",
+    "markup/dropdown menu without js.md",
     "footer.md",
-    "releases/2022-12-03.md",
-    "productivity/pomodoro technique.md"
+    "00_inbox/02_js/codingame.md",
+    "00_inbox/04_markup/DOM selection game.md",
+    "api/formspark.io.md"
   ]
 }
