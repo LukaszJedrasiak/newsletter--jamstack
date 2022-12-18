@@ -7,6 +7,8 @@ hashtags:
 - buildinpublic
 ---
 
+![[figma-dropdown-menu.mp4]]
+
 Tutorial on how to create a dropdown menu using Figma variants. You will learn how to create variants and then link them up to add interactivity to your prototype.
 
 figma prototype: https://bit.ly/jedrasiak-eu-figma-prototype-mobile

@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a860245ec307397",
+            "id": "7e5646a4d180e147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_inbox/04_markup/DOM selection game.md",
-                "mode": "source",
+                "file": "productivity/noisli.md",
+                "mode": "preview",
                 "source": true
               }
-            }
-          },
-          {
-            "id": "f08bd0d2e33622bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "releases/2022-12-10.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c4658d852f9b37a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/01_jamstack/modern web development on the jamstack.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a96b9190d0a749b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/01_jamstack/architectural guide to the modern web.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d172d82e27e3babf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_inbox/01_jamstack/jamstack video course.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "df321b875938fb24",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tutorial",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "productivity/noisli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "productivity/noisli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,27 +124,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "productivity/noisli.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "df321b875938fb24",
+  "active": "7e5646a4d180e147",
   "lastOpenFiles": [
-    "00_inbox/01_jamstack/cut into jamstack.md",
-    "00_inbox/01_jamstack/jamstack video course.md",
-    "00_inbox/01_jamstack/architectural guide to the modern web.md",
-    "00_inbox/01_jamstack/modern web development on the jamstack.md",
-    "releases/2022-12-10.md",
-    "markup/dropdown menu without js.md",
     "footer.md",
-    "00_inbox/02_js/codingame.md",
-    "00_inbox/04_markup/DOM selection game.md",
-    "api/formspark.io.md"
+    "productivity/noisli.md",
+    "releases/2022-12-17.md",
+    "templates/release.md",
+    "jamstack/why choose hugo ssg.md",
+    "releases/2022-12-10.md",
+    "uxui/dropdown menu in figma without plugins.md",
+    "js/a complete guide to dark mode on the web.md",
+    "api/jsonplaceholder.md",
+    "markup/semantic html.md"
   ]
 }

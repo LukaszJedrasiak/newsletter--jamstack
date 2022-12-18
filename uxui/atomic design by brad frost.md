@@ -7,7 +7,11 @@ hashstags:
 
 ![[atomic-design-by-brad-frost.jpg]]
 
-If you care more about the quick implementation of the web app than its original layout, you can use ready-made design systems. In this book, you will learn how modern design systems are built.
+From the book "Atomic Design" written by Brad Frost, you will learn how modern design systems are built and how to design and implement your design system in an organization.
+
+This book is a must-read for UX/UI designers and front-end developers. It helps to understand the components that are the basis of the most popular web frameworks.
+
+The book is available for free online.
 
 https://atomicdesign.bradfrost.com/
 

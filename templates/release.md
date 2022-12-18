@@ -5,7 +5,7 @@ date: YYYY-MM-DD
 hashtags:
 - jamstack
 - webdevelopment
-- frontent
+- frontend
 ---
 
 **${title} | ${subtitle}**
